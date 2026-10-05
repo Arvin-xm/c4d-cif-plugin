@@ -1,0 +1,12 @@
+{
+  "package": "MaterialsCIFVisualizer_0.4.0_C4D2025.3.zip",
+  "sha256": "b3237279158ab87893063e674ee453d1d4f817e6a0849fdf5773218161924aed",
+  "size_bytes": 94848,
+  "source_files_checked_python_3_11": 19,
+  "zip_files": 39,
+  "zip_crc": "PASS",
+  "manifest_checks": "PASS",
+  "single_pyp_entry": "PASS",
+  "original_cif_hashes_match": "PASS",
+  "native_loader_gui_vray": "0.4.0 native UI and V-Ray render NOT VERIFIED; offline 53 core and 27 SDK/scene tests passed"
+}

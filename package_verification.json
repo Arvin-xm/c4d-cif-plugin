@@ -1,0 +1,12 @@
+{
+  "package": "MaterialsCIFVisualizer_0.2.0_C4D2025.3.zip",
+  "sha256": "531ad505794c1a4b23f464f67e33e0e62e48c62e807b15b6efa8b6113f5482e9",
+  "size_bytes": 35252,
+  "source_files_checked_python_3_11": 12,
+  "zip_files": 25,
+  "zip_crc": "PASS",
+  "manifest_checks": "PASS",
+  "single_pyp_entry": "PASS",
+  "original_cif_hashes_match": "PASS",
+  "native_loader_gui_vray": "NOT VERIFIED: c4dpy crashed before probe results"
+}
